@@ -6,15 +6,20 @@
 <a href="mailto:keshav.jmgl@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
 </a>
+Here’s a draft for your GitHub summary—charismatic, confident, and grounded in your morals and engineering identity:
+
+👋 Hi, I’m Keshav — a Computer Science student, engineer, and builder who believes in writing code with purpose.
+
+I thrive at the intersection of **AI, full-stack systems, and automation**, turning ideas into scalable, real-world solutions. For me, engineering isn’t just about clever code — it’s about impact, efficiency, and leaving things better than I found them.
+As **ACM Co-President, BeachHacks leader, and Founder of Project Starbound**, I’ve learned that real innovation comes from collaboration, mentorship, and standing by your values. Whether it’s building tools, leading teams, or fostering communities, I approach each project with clarity, conviction, and a drive to create meaningful change.
+
+⚡ Core belief: **Good engineering should not only solve problems, but also empower people.**
 
 **📈 My GitHub Stats**
-
 <!-- Profile Views -->
 ![Profile Views](https://komarev.com/ghpvc/?username=bananatruck&color=blue)
-
 <!-- Coding Since -->
 ![Coding Since](https://img.shields.io/badge/Coding%20Since-2021-blue)
-
 <!-- General Activity -->
 ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/m/bananatruck/bananatruck?style=flat-square)
 

@@ -1,0 +1,40 @@
+{
+  "name": "Keshav Jindal",
+  "title": "keshav@jindal",
+  "username": "bananatruck",
+  "repo": "bananatruck/bananatruck",
+  "portfolio_url": "https://bananatruck.site",
+  "github_profile": "https://github.com/bananatruck",
+  "birthday": "2004-01-10",
+  "photo": "assets/profile.jpg",
+  "theme": {
+    "default": "light"
+  },
+  "profile": [
+    ["OS", "Arch Linux"],
+    ["Uptime", "__UPTIME__"],
+    ["Host", "TempleOS"],
+    ["Kernel", "Accordingly"],
+    ["IDE", "VS Code, Claude Code, Antigravity"]
+  ],
+  "languages": [
+    ["Languages.Programming", "Python, React, Rust, TypeScript"],
+    ["Languages.Computer", "C++, Rust"],
+    ["Languages.Real", "English, Hindi, French"]
+  ],
+  "hobbies": [
+    ["Hobbies.Software", "Agentic Development, Open Source Contributions, Cinephile, Writer"],
+    ["Hobbies.Hardware", "PC Building, Workout"]
+  ],
+  "contact": [
+    ["Email", "keshav.jmgl@gmail.com"],
+    ["GitHub", "bananatruck"],
+    ["LinkedIn", "Keshav Jindal"],
+    ["Portfolio", "bananatruck.site"]
+  ],
+  "stats": [
+    ["Repos", "Pretty impressive", "Contributed", "Also pretty impressive"],
+    ["Commits", "Pretty impressive", "Followers", "Pretty impressive"],
+    ["Lines of Code on GitHub", "Way too many to count", "", ""]
+  ]
+}

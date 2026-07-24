@@ -13,7 +13,7 @@
 <text x="745" y="70" font-size="16" font-family="Consolas, Menlo, Monaco, 'Courier New', monospace" fill="#0969da">Arch Linux</text>
 <text x="485" y="90" font-size="16" font-family="Consolas, Menlo, Monaco, 'Courier New', monospace"><tspan fill="#8c959f">. </tspan><tspan fill="#bc4c00">Uptime</tspan><tspan fill="#8c959f">:</tspan></text>
 <line x1="575" y1="84" x2="727" y2="84" stroke="#8c959f" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="1 8" opacity="0.72"/>
-<text x="745" y="90" font-size="16" font-family="Consolas, Menlo, Monaco, 'Courier New', monospace" fill="#0969da">22 years, 6 months, 13 days</text>
+<text x="745" y="90" font-size="16" font-family="Consolas, Menlo, Monaco, 'Courier New', monospace" fill="#0969da">22 years, 6 months, 14 days</text>
 <text x="485" y="110" font-size="16" font-family="Consolas, Menlo, Monaco, 'Courier New', monospace"><tspan fill="#8c959f">. </tspan><tspan fill="#bc4c00">Host</tspan><tspan fill="#8c959f">:</tspan></text>
 <line x1="556" y1="104" x2="727" y2="104" stroke="#8c959f" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="1 8" opacity="0.72"/>
 <text x="745" y="110" font-size="16" font-family="Consolas, Menlo, Monaco, 'Courier New', monospace" fill="#0969da">TempleOS</text>

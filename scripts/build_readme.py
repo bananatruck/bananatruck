@@ -266,7 +266,7 @@ def write_readme(config: dict[str, Any]) -> None:
     portfolio_url = config.get("portfolio_url", "https://bananatruck.site")
 
     readme = f'''<a href="{portfolio_url}">
-  <img alt="{html.escape(name)}'s GitHub Profile README" src="https://raw.githubusercontent.com/{repo}/main/light_mode.svg">
+  <img alt="{html.escape(name)}'s GitHub Profile README" src="https://raw.githubusercontent.com/{repo}/main/dark_mode.svg">
 </a>
 '''
     (ROOT / "README.md").write_text(readme, encoding="utf-8")
